@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="172" viewBox="0 0 149 172">
+    <defs>
+        <path id="a" d="M0 42.91L74.128 0l74.128 42.91v85.819l-74.128 42.91L0 128.728z"/>
+    </defs>
+    <path fill="none" fill-rule="evenodd" stroke="#1A2052" stroke-width="6" d="M3 44.64v82.359l71.128 41.173 71.128-41.173v-82.36L74.128 3.467 3 44.64z"/>
+</svg>
